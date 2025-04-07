@@ -1,1 +1,1 @@
-# Python
+# Python - Generator kodów QR
