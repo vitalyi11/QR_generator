@@ -1,5 +1,5 @@
 # Python - Generator kodów QR
 
-# Instalacja zależności:
+### Instalacja zależności:
 ```bash
 pip install qrcode
